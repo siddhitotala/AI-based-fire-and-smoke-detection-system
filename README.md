@@ -1,0 +1,1 @@
+# AI-based-fire-and-smoke-detection-system
